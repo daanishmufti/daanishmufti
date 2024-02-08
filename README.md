@@ -1,5 +1,7 @@
 # Welcome to my Github Profile
 
++I am Daanish Ahmad Mufti ,a computer science student at GIKI University.
++I am on a journey to learn through the principles of programming and 
 <!--
 **daanishmufti/daanishmufti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
