@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daanish-mufti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daanish-mufti" height="30" width="40" /></a>
-<a href="https://fb.com/daanish mufti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daanish mufti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daanish-mufti-1451a0290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daanish-mufti-1451a0290" height="30" width="40" /></a>
+<a href="https://fb.com/100073440296946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100073440296946" height="30" width="40" /></a>
 <a href="https://instagram.com/daanish_mufti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daanish_mufti" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/daanish ahmad mufti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daanish ahmad mufti" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dk1oqoolyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dk1oqoolyu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
